@@ -1,4 +1,4 @@
-package com.caps.servlets;
+package com.caps.controller.servlets;
 
 import java.io.IOException;
 import java.io.PrintWriter;
